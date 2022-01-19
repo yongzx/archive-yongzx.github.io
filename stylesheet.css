@@ -28,6 +28,11 @@ strong {
 heading {
   font-family: Palatino,Georgia,"Times New Roman",serif;
   font-size: 22px;
+  margin-bottom: 50px;
+}
+
+.heading-div {
+  margin-bottom: 10px;
 }
 
 papertitle {
@@ -64,4 +69,38 @@ name {
 
 span.highlight {
   background-color: #ffffd0;
+}
+
+.badge-pdf {
+  background-color: #EF959C;
+  color: white;
+}
+
+.badge-code {
+  background-color: #788fac;
+  color: white;
+}
+
+.badge-bibtex {
+  background-color: #DBC7BE;
+  color: white;
+  cursor: pointer;
+}
+
+.collapsible-card-div {
+  background-color: #eeeeee;
+  padding: 10px;
+  max-width: 650px;
+  overflow: auto;
+  line-height: normal;
+}
+
+.collapsible-card-div > .card-body {
+  font-size: 12px;
+  padding: 1rem;
+  line-height: 1rem;
+}
+
+p.pub-details {
+  margin-bottom: 1.25rem;
 }

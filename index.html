@@ -14,9 +14,14 @@
   <meta property="og:description" content="My Personal Website" />
   
   <script src="https://kit.fontawesome.com/26fa09d0d7.js" crossorigin="anonymous"></script>
+  
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
   <link rel="stylesheet" type="text/css" href="stylesheet.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
   <link rel="icon" type="image/png" href="images/favicon.ico">
+  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
   <script async src="https://cdn.panelbear.com/analytics.js?site=Fj5fKEAapBw"></script>
   <script>
     window.panelbear = window.panelbear || function() { (window.panelbear.q = window.panelbear.q || []).push(arguments); };
@@ -63,7 +68,7 @@
         <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
             <tr>
             <td style="padding:20px;width:100%;vertical-align:middle">
-              <heading>News</heading>
+              <heading><div class="heading-div">News</div></heading>
               <ul>
                 <li>[2021/10] &nbsp; 🌸 Big-Science's first <a href="https://arxiv.org/abs/2110.08207">paper</a> about T0 is out!
                 <li>[2021/06] &nbsp; 🐻 Excited to start my PhD journey at <a href="http://cs.brown.edu/">Brown University</a>.</li>
@@ -77,7 +82,7 @@
         <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
             <tr>
             <td style="padding:20px;width:100%;vertical-align:middle">
-              <heading>Projects</heading>
+              <heading><div class="heading-div">Projects</div></heading>
               <p>
                 <a href="https://bigscience.huggingface.co/en/#!index.md">
                   <papertitle>BigScience 2021 Workshop: The Summer of Language Models </papertitle>
@@ -106,25 +111,86 @@
               </script>
             </td> -->
             <td style="padding:20px;width:75%;vertical-align:middle">
-              <heading>Publications</heading>
+              <heading><div class="heading-div">Publications</div></heading>
               <!-- Representative papers are <span class="highlight">highlighted</span>. -->
-              <p>
-                <papertitle>Multitask Prompted Training Enables Zero-Shot Task Generalization</papertitle>
+              <p class="pub-details">
+                <papertitle><a href="https://arxiv.org/abs/2110.08207">Multitask Prompted Training Enables Zero-Shot Task Generalization</a></papertitle>
                 <br>
                   Victor Sanh et al (+ 39 authors). <b>Zheng-Xin Yong</b>: datasets creation.<br>
-                <em>Preprint. 2021.</em> (<a href="https://arxiv.org/abs/2110.08207">Paper</a>, <a href="https://huggingface.co/bigscience/T0pp">Language Model</a>)
+                <em>ArXiv 2110.08207</em> (<a href="https://huggingface.co/bigscience/T0pp">Language Model</a>)
                 <br>
-              </p>
-              <p>
-                <papertitle>Semi-supervised Deep Embedded Clustering with Anomaly Detection for Semantic Frame Induction</papertitle>
-                <br>
-                <b>Zheng-Xin Yong</b>, Tiago Timponi Torrent. <br>
-                <em> In Proceedings of the 12th Language Resources and Evaluation Conference (LREC).</em> 2020. (<a href="https://www.aclweb.org/anthology/2020.lrec-1.431/">Paper</a>, <a href="https://github.com/yongzx/Semi-supervised-Deep-Embedded-Clustering-with-Anomaly-Detection-for-Semantic-Frame-Induction">Code</a>, <a href="https://www.aclweb.org/anthology/2020.lrec-1.431.bib">BibTeX</a>)
-                <br>
-              </p>
-              
-            </td>
+                <span>
+                  <a href="https://arxiv.org/pdf/2110.08207.pdf"><span class="badge badge-pdf">PDF</span></a>
 
+                  <a href="https://bigscience.huggingface.co/blog/t0"><span class="badge badge-pdf">Blog</span></a>
+
+                  <a href="https://github.com/bigscience-workshop/promptsource"><span class="badge badge-code">Data</span></a>
+
+                  <a href="https://huggingface.co/bigscience/T0pp"><span class="badge badge-code">Language Model</span></a>
+                  
+                  <span class="badge badge-bibtex" type="button" data-toggle="collapse" data-target="#T0Bibtex" aria-expanded="false" aria-controls="T0Bibtex">BibTeX</span>
+                  <div class="collapse collapsible-card-div" id="T0Bibtex">
+                    <div class="card card-body">
+                      @article{sanh:arxiv21,<br>
+                        &emsp;Author = {Victor Sanh and Albert Webson and Colin Raffel and Stephen H. Bach and Lintang Sutawika and Zaid Alyafeai and Antoine Chaffin and Arnaud Stiegler and Teven Le Scao and Arun Raja and Manan Dey and M Saiful Bari and Canwen Xu and Urmish Thakker and Shanya Sharma Sharma and Eliza Szczechla and Taewoon Kim and Gunjan Chhablani and Nihal Nayak and Debajyoti Datta and Jonathan Chang and Mike Tian-Jian Jiang and Han Wang and Matteo Manica and Sheng Shen and Zheng Xin Yong and Harshit Pandey and Rachel Bawden and Thomas Wang and Trishala Neeraj and Jos Rozen and Abheesht Sharma and Andrea Santilli and Thibault Fevry and Jason Alan Fries and Ryan Teehan and Stella Biderman and Leo Gao and Tali Bers and Thomas Wolf and Alexander M. Rush},<br>
+                        &emsp;Title = {Multitask Prompted Training Enables Zero-Shot Task Generalization},<br>
+                        &emsp;Volume = {arXiv:2110.08207[cs.LG]},<br>
+                        &emsp;Year = {2021}<br>
+                      }
+                    </div>
+                  </div>
+                </span>
+              </p>
+              <p class="pub-details">
+                <papertitle><a href="https://arxiv.org/abs/2201.01837">Frame Shift Prediction</a></papertitle>
+                <br>
+                <b>Zheng-Xin Yong</b>, Patrick D Watson, Tiago Timponi Torrent, Oliver Czulo, Collin F Baker. 
+                <br>
+                <em> Technical Report.</em> 2021.
+                <br>
+                <span>
+                  <a href="https://arxiv.org/pdf/2201.01837.pdf"><span class="badge badge-pdf">PDF</span></a>
+
+                  <a href="https://github.com/yongzx/Semantic-Frame-Shift"><span class="badge badge-code">Project</span></a>
+                  
+                  <span class="badge badge-bibtex" type="button" data-toggle="collapse" data-target="#FSPBibtex" aria-expanded="false" aria-controls="FSPBibtex">BibTeX</span>
+                  <div class="collapse collapsible-card-div" id="FSPBibtex">
+                    <div class="card card-body">
+                      @article{yong:arxiv2021,<br>
+                      &emsp;Author = {Zheng-Xin Yong and Patrick D Watson and Tiago Timponi Torrent and Oliver Czulo and Collin F Baker},<br>
+                      &emsp;Title = {Frame Shift Prediction},<br>
+                      &emsp;Booktitle = {arXiv:2201.01837 [cs.CL]},<br>
+                      &emsp;Year = {2021}<br>
+                    }
+                    </div>
+                  </div>
+                </span>
+              </p>
+              <p class="pub-details">
+                <papertitle><a href="https://www.aclweb.org/anthology/2020.lrec-1.431/">Semi-supervised Deep Embedded Clustering with Anomaly Detection for Semantic Frame Induction</a></papertitle>
+                <br>
+                <b>Zheng-Xin Yong</b>, Tiago Timponi Torrent. 
+                <br>
+                <em> In Proceedings of the 12th Language Resources and Evaluation Conference (LREC),</em> 2020
+                <br>
+                <span>
+                  <a href="https://aclanthology.org/2020.lrec-1.431.pdf"><span class="badge badge-pdf">PDF</span></a>
+
+                  <a href="https://github.com/yongzx/Semi-supervised-Deep-Embedded-Clustering-with-Anomaly-Detection-for-Semantic-Frame-Induction"><span class="badge badge-code">Project</span></a>
+                  
+                  <span class="badge badge-bibtex" type="button" data-toggle="collapse" data-target="#sdecBibtex" aria-expanded="false" aria-controls="sdecBibtex">BibTeX</span>
+                  <div class="collapse collapsible-card-div" id="sdecBibtex">
+                    <div class="card card-body">
+                      @article{yong:lrec2020,<br>
+                      &emsp;Author = {Zheng-Xin Yong and Tiago Timponi Torrent},<br>
+                      &emsp;Title = {Semi-supervised Deep Embedded Clustering with Anomaly Detection for Semantic Frame Induction},<br>
+                      &emsp;Booktitle = {Proceedings of the 12th Language Resources and Evaluation Conference},<br>
+                      &emsp;Year = {2020}<br>
+                    }
+                    </div>
+                  </div>
+                </span>
+            </td>
           <!-- <tr onmouseout="nerfbake_stop()" onmouseover="nerfbake_start()">
             <td style="padding:20px;width:25%;vertical-align:middle">
               <div class="one">
