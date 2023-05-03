@@ -38,6 +38,12 @@ subheading {
   text-decoration:underline;
 }
 
+.heading-a {
+  font-family: Palatino,Georgia,"Times New Roman",serif;
+  font-size: 22px;
+  margin-bottom: 50px;
+}
+
 .heading-div {
   margin-bottom: 10px;
 }
