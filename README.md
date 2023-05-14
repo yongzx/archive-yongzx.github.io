@@ -7,11 +7,15 @@ So, instead of letting GitHub build the site for us, we can do it on our own loc
 git checkout gh-pages
 
 # Next checkout the specific file you wish to add to the gh-pages branch
-git checkout master -- 
+rm -rf *
+git checkout master -- _site
+mv _site/* .
 
 # Perfom the commit
-git commit -m "Updated index.html from master"
+git commit -am "Updated index.html from master"
 
 # And push
 git push 
+
+git checkout master
 ```
