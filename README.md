@@ -3,19 +3,21 @@ Error with CSS: https://stackoverflow.com/questions/64715686/jekyll-css-not-work
 So, instead of letting GitHub build the site for us, we can do it on our own locally by running `bundle exec jekyll build`, and then pushing only the contents of the _site folder to the `gh-pages` branch. This requires that you have two separate branches: one for your Jekyll project (typically called `master` or main), and the `gh-pages` branch that is only used to hold the contents of the _site folder every time you build the site. That’s all there is to it in order to use the latest Jekyll and any theme and plugin you want.
 
 ```
-# First switch to the gh-pages branch
+jekyll serve -w --baseurl ''
+
+
+# build and switch to the gh-pages branch
+bundle exec jekyll build
 git checkout gh-pages
 
-# Next checkout the specific file you wish to add to the gh-pages branch
+# move all the index html files to current folder
 rm -rf *
 git checkout master -- _site
 mv _site/* .
 
-# Perfom the commit
+# commit (remember -am instead of -m)
 git commit -am "Updated index.html from master"
-
-# And push
-git push 
+git push origin gh-pages
 
 git checkout master
 ```
