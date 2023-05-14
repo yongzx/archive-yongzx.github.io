@@ -1,0 +1,9 @@
+name: "Yong Zheng-Xin"
+permalink: /:year/:month/:day/:title.html
+
+atom-baseurl: "http://yongzx.github.io"
+
+navigations:
+  - title: Blog
+    class: fa fa-blog
+    href: https://yongzx.github.io/blog/
