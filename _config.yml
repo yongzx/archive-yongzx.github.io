@@ -2,6 +2,7 @@ name: "Yong Zheng-Xin"
 permalink: /:year/:month/:day/:title.html
 
 atom-baseurl: "http://yongzx.github.io"
+baseurl: "http://yongzx.github.io"
 
 navigations:
   - title: Google Scholar
