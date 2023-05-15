@@ -1,4 +1,6 @@
 git checkout master
+rm -rf _site
+rm -rf index.html
 bundle exec jekyll build
 
 git add .
