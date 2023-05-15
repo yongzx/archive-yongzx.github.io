@@ -1,0 +1,19 @@
+name: "Yong Zheng-Xin"
+permalink: /:year/:month/:day/:title.html
+
+atom-baseurl: "http://yongzx.github.io"
+baseurl: "http://yongzx.github.io"
+
+navigations:
+  - title: Google Scholar
+    class: ai ai-google-scholar
+    href: https://scholar.google.com/citations?hl=en&user=z6bOk-AAAAAJ
+  - title: Github
+    class: fab fa-github
+    href: https://github.com/yongzx
+  - title: Twitter
+    class: fab fa-twitter
+    href: https://twitter.com/yong_zhengxin
+  - title: Blog
+    class: fa fa-blog
+    href: https://yongzx.github.io/blog/
