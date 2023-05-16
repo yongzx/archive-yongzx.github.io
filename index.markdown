@@ -43,7 +43,7 @@ layout: page
 > <span style="color:blue">LREC 2022</span>.
 >
 > **[PromptSource: An Integrated Development Environment and Repository for Natural Language Prompts](https://arxiv.org/abs/2202.01279)** <br/>
-> Stephen H. Bach\*, Victor Sanh\*, **Zheng-Xin Yong**, Albert Webson, Colin Raffel, et al. <br/>
+> Stephen H. Bach, Victor Sanh, **Zheng-Xin Yong**, Albert Webson, Colin Raffel, Nihal V. Nayak, Abheesht Sharma, Taewoon Kim, M Saiful Bari, Thibault Fevry, Zaid Alyafeai, Manan Dey, Andrea Santilli, Zhiqing Sun, Srulik Ben-David, Canwen Xu, Gunjan Chhablani, Han Wang, Jason Alan Fries, Maged S. Al-shaibani, Shanya Sharma, Urmish Thakker, Khalid Almubarak, Xiangru Tang, Dragomir Radev, Mike Tian-Jian Jiang, Alexander M. Rush<br/>
 > <span style="color:blue">ACL Demo 2022</span>.
 > 
 > **[Multitask Prompted Training Enables Zero-Shot Task Generalization](https://arxiv.org/abs/2110.08207)** <br/>
