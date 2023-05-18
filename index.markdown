@@ -20,7 +20,7 @@ layout: page
 > - [2021 May]   🎓 Graduated from Minerva University.
 
 **Projects**
-> 🌊 **[SEA NLP (2022 - Present)](https://bigscience.huggingface.co/)** <br/>
+> 🌊 **[SEA NLP (2022 - Present)](https://github.com/Southeast-Asia-NLP)** <br/>
 > SEA NLP is a research group focusing on language technology for South-East Asian (SEA) languages. One recent paper release is about [code-mixing ability of multilingual LLMs](https://arxiv.org/abs/2303.13592).
 >
 > 🌸 **[BigScience: The Summer of Language Models (2021 - 2022)](https://bigscience.huggingface.co/)** <br/>
