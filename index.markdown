@@ -9,9 +9,12 @@ layout: page
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. **mutlilingual NLP**: creating better multilingual language models. <br />
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. **low-resource ML**: learning with limited data and compute. <br />
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. **trustworthy AI**: building reliable AI systems. <br />
+>
+> As a Malaysian 🇲🇾, I am also developing NLP systems for Southeast Asian (SEA) languages. 
 
 **News**
 
+> - [2023 May]   🌊 [Interviewed by Wired](https://www.wired.com/story/chatgpt-non-english-languages-ai-revolution/) on our [code-switching paper](https://arxiv.org/abs/2303.13592) and grassroot research initiatve for Southeast Asian languages.
 > - [2023 May]   🌸 Three multilingual papers ([BLOOM+1](https://arxiv.org/abs/2212.09535), [BLOOMZ](https://arxiv.org/abs/2211.01786) and [code-switching survey](https://arxiv.org/abs/2212.09660)) are accepted to ACL'23!
 > - [2022 Apr]   🖼️ Our work on [predicting frame shifts](https://arxiv.org/abs/2201.01837) is accepted to LREC'22.
 > - [2022 Mar]   🌸 [PromptSource paper](https://arxiv.org/abs/2202.01279) is out and accepted to ACL'22 Demo track.
@@ -59,7 +62,7 @@ layout: page
 **Preprints**
 > **[Prompting Multilingual Large Language Models to Generate Code-Mixed Texts: The Case of South East Asian Languages](https://arxiv.org/abs/2303.13592)**
 > **Zheng-Xin Yong**, Ruochen Zhang, Jessica Zosa Forde, Skyler Wang, Samuel Cahyawijaya, Holy Lovenia, Genta Indra Winata, Lintang Sutawika, Jan Christian Blaise Cruz, Long Phan, Yin Lin Tan, and Alham Fikri Aji. <br/>
-> *arxiv preprint, Mar 2023.*
+> *arxiv preprint, Mar 2023.* ([Interview with Wired](https://www.wired.com/story/chatgpt-non-english-languages-ai-revolution/))
 >
 > **[BLOOM: A 176B-Parameter Open-Access Multilingual Language Model](https://arxiv.org/abs/2211.05100)** <br/>
 > BigScience Workshop (390 authors including **Zheng-Xin Yong**). <br/>
