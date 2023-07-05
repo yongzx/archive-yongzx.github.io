@@ -3,7 +3,7 @@ title: About Me (Yong)
 layout: page
 ---
 
-> I am a second-year Computer Science PhD student at [Brown University](https://cs.brown.edu/) under the advisorship of [Prof. Stephen Bach](https://cs.brown.edu/people/sbach/). Prior to my PhD, I completed my BSc at [Minerva University](https://www.minerva.edu/) where I had the opportunity to study/live in multiple countries such as Argentina, India, Germany, South Korea, U.K., and USA. 
+> I am a rising third-year Computer Science PhD student at [Brown University](https://cs.brown.edu/) under the advisorship of [Prof. Stephen Bach](https://cs.brown.edu/people/sbach/). Prior to my PhD, I completed my BSc at [Minerva University](https://www.minerva.edu/) where I had the opportunity to study/live in multiple countries such as Argentina, India, Germany, South Korea, U.K., and USA. 
 > 
 > I am primarily interested in <u>making NLP systems more accessible</u> by working on these three things: <br />
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. **mutlilingual NLP**: creating better multilingual language models. <br />
