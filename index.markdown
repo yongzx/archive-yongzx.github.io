@@ -14,6 +14,7 @@ layout: page
 
 **News**
 
+> - [2023 Jul]   💫 Serving as the Area Chair for the Multilingualism & Linguistic Diversity Track in EMNLP'23. 
 > - [2023 Jun]   🐻 Passed my candidacy (in May) and released [a blog post of my mid-PhD reflections](https://yongzx.github.io/blog/articles/23/reflection-2year-PhD).
 > - [2023 May]   🌊 [Interviewed by Wired](https://www.wired.com/story/chatgpt-non-english-languages-ai-revolution/) on our [code-switching paper](https://arxiv.org/abs/2303.13592) and grassroot research initiatve for Southeast Asian languages.
 > - [2023 May]   🌸 Three multilingual papers ([BLOOM+1](https://arxiv.org/abs/2212.09535), [BLOOMZ](https://arxiv.org/abs/2211.01786) and [code-switching survey](https://arxiv.org/abs/2212.09660)) are accepted to ACL'23!
