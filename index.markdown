@@ -10,7 +10,9 @@ layout: page
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. **low-resource ML**: learning with limited data and compute. <br />
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. **trustworthy AI**: building reliable AI systems. <br />
 >
-> As a Malaysian 🇲🇾, I am also developing NLP systems for Southeast Asian (SEA) languages. 
+> As a Malaysian 🇲🇾, I am also developing NLP systems for Southeast Asian (SEA) languages. I'm also the Malay ambassador for the [Aya project](https://sites.google.com/cohere.com/aya-en/home). 
+>
+> I’m an **Area Chair for Multilingualism and Linguistic Diversity** at EMNLP 2023!
 
 **News**
 
@@ -73,7 +75,8 @@ layout: page
 
 **Services**
 
-> - conference reviewer: ACL (2021 - 2023), EMNLP (2021), ACL Rolling Review (April 2022 - present), 
+> - area chair: EMNLP 2023
+> - conference reviewer: ACL (2021 - 2023), EMNLP (2021), ACL Rolling Review (April 2022 - present)
 > - journal reviewer: Springer LRE
 > - mentoring: exploreCSR, Deep Learning Indaba
-> - volunteer: ACL 2022
+> - volunteer: ACL 2022 - 2023
