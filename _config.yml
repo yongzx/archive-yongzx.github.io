@@ -15,5 +15,8 @@ navigations:
     class: fab fa-twitter
     href: https://twitter.com/yong_zhengxin
   - title: Blog
-    class: fa fa-blog
+    class: fab fa-blogger-b
     href: https://yongzx.github.io/blog/
+  - title: Youtube
+    class: fab fa-youtube
+    href: https://www.youtube.com/channel/UCKeJPdRgqFnpXh6fieVtV8g
