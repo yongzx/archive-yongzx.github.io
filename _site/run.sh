@@ -20,4 +20,4 @@ git commit -am "Updated index.html from master"
 git push origin gh-pages
 
 echo "Done"
-git checkout -f master
+git checkout master
