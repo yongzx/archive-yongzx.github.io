@@ -19,5 +19,5 @@ git add .
 git commit -am "Updated index.html from master"
 git push origin gh-pages
 
-echo "Done"
-git checkout master
+# echo "Done"
+# git checkout master
