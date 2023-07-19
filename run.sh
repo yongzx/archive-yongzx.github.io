@@ -18,4 +18,4 @@ mv _site/* .
 git commit -am "Updated index.html from master"
 git push origin gh-pages
 
-git checkout master -f
+git checkout master
