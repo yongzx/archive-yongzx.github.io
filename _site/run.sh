@@ -15,6 +15,7 @@ git checkout master -- _site
 mv _site/* .
 
 # commit (remember -am instead of -m)
+git add .
 git commit -am "Updated index.html from master"
 git push origin gh-pages
 
