@@ -27,8 +27,8 @@ layout: page
 > - [2021 May]   🎓 Graduated from Minerva University.
 
 **Projects**
-> 🌊 **[SEA NLP (2022 - Present)](https://github.com/Southeast-Asia-NLP)** <br/>
-> SEA NLP is a research group focusing on language technology for South-East Asian (SEA) languages. One recent paper release is about [code-mixing ability of multilingual LLMs](https://arxiv.org/abs/2303.13592).
+> 🌊 **[Rojak NLP (2022 - Present)](https://github.com/Southeast-Asia-NLP)** <br/>
+> Rojak NLP is a research group focusing on language technology for South-East Asian (SEA) languages. One recent paper release is about [code-mixing ability of multilingual LLMs](https://arxiv.org/abs/2303.13592).
 >
 > 🌸 **[BigScience: The Summer of Language Models (2021 - 2022)](https://bigscience.huggingface.co/)** <br/>
 > The BigScience project is a collaborative effort aimed at training the publicly available [BLOOM](https://arxiv.org/abs/2211.05100) language model. I led the language adaptation research ([BLOOM+1](https://arxiv.org/abs/2212.09535)) in the multilingual modeling subgroup, and I helped out in the prompt engineering subgroup ([T0](https://arxiv.org/abs/2110.08207), [PromptSource](https://arxiv.org/abs/2202.01279), and [BLOOMZ](https://arxiv.org/abs/2211.01786)).
