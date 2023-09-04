@@ -6,7 +6,7 @@ So, instead of letting GitHub build the site for us, we can do it on our own loc
 
 
 ```
-jekyll serve -w --baseurl ''
+bundle exec jekyll serve -w --baseurl ''
 
 
 # build and switch to the gh-pages branch
