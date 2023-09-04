@@ -10,7 +10,7 @@ layout: page
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. **low-resource ML**: learning with limited data and compute. <br />
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. **trustworthy AI**: building reliable AI systems. <br />
 >
-> As a Malaysian 🇲🇾, I am also developing NLP systems for Southeast Asian (SEA) languages. I'm also the Malay ambassador for the [Aya project](https://sites.google.com/cohere.com/aya-en/home). 
+> As a Malaysian 🇲🇾, I am also developing NLP systems for Southeast Asian (SEA) languages. I organize the Rojak NLP group for researching NLP technology for SEA languages, and I am also the Malay ambassador for the [Aya project](https://sites.google.com/cohere.com/aya-en/home).
 >
 > I’m an **Area Chair for Multilingualism and Linguistic Diversity** at EMNLP 2023!
 
