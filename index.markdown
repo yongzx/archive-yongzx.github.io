@@ -4,15 +4,17 @@ layout: page
 ---
 
 > I am a rising third-year Computer Science PhD student at [Brown University](https://cs.brown.edu/) under the advisorship of [Prof. Stephen Bach](https://cs.brown.edu/people/sbach/). Prior to my PhD, I completed my BSc at [Minerva University](https://www.minerva.edu/) where I had the opportunity to study/live in multiple countries such as Argentina, India, Germany, South Korea, U.K., and USA. 
-> 
+>
 > I am primarily interested in <u>making NLP systems more accessible</u> by working on these three things: <br />
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. **mutlilingual NLP**: creating better multilingual language models. <br />
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. **low-resource ML**: learning with limited data and compute. <br />
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. **trustworthy AI**: building reliable AI systems. <br />
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. **(mutlilingual) large language models**: 
+> Developing instruction-tuned English models ([T0](https://arxiv.org/abs/2110.08207), [PromptSource](https://arxiv.org/abs/2202.01279)) and 
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;multilingual models ([BLOOMZ/mT0](https://arxiv.org/abs/2211.01786), [BLOOM](https://arxiv.org/abs/2211.05100), and [Aya](https://aya.for.ai/)).<br />
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. **low-resource ML**: Transfer learning with limited data and compute ([BLOOM+1](https://arxiv.org/abs/2212.09535)). <br />
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. **trustworthy AI**: building reliable AI systems ([Can LLMs generate code-switched texts?](https://arxiv.org/abs/2303.13592)). <br />
 >
-> As a Malaysian 🇲🇾, I am also developing NLP systems for Southeast Asian (SEA) languages. I organize the Rojak NLP group for researching NLP technology for SEA languages, and I am also the Malay ambassador for the [Aya project](https://sites.google.com/cohere.com/aya-en/home).
+> As a Malaysian 🇲🇾, I work on NLP systems for Southeast Asian (SEA) languages. I organize the [RojakNLP](https://github.com/Southeast-Asia-NLP) group for researching NLP technology for SEA languages, and I am also the Malay ambassador for the [Aya project](https://sites.google.com/cohere.com/aya-en/home).
 >
-> I’m an **Area Chair for Multilingualism and Linguistic Diversity** at EMNLP 2023!
+>I’m serving as an **Area Chair for Multilingualism and Linguistic Diversity** at EMNLP 2023!
 
 **News**
 
@@ -27,6 +29,9 @@ layout: page
 > - [2021 May]   🎓 Graduated from Minerva University.
 
 **Projects**
+> **[Cohere For AI: Aya (2023 - Present)](https://aya.for.ai/)** <br/>
+> Aya is an open science project that aims to build a state of art multilingual generative language model. I am part of the Responsible Deployment team and the ambassador for Malay language.
+>
 > 🌊 **[Rojak NLP (2022 - Present)](https://github.com/Southeast-Asia-NLP)** <br/>
 > Rojak NLP is a research group focusing on language technology for South-East Asian (SEA) languages. One recent paper release is about [code-mixing ability of multilingual LLMs](https://arxiv.org/abs/2303.13592).
 >
