@@ -12,7 +12,7 @@ layout: page
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. **low-resource ML**: Transfer learning with limited data and compute ([BLOOM+1](https://arxiv.org/abs/2212.09535)). <br />
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. **trustworthy AI**: Building reliable AI systems ([Can LLMs generate code-switched texts?](https://arxiv.org/abs/2303.13592)). <br />
 >
-> I am currently working on adapting language models to the [Left-Behinds languages](https://aclanthology.org/2020.acl-main.560/) and responsible deployment of future [Aya](https://sites.google.com/cohere.com/aya-en/home) models. I’m also serving as an **Area Chair for Multilingualism and Linguistic Diversity** at EMNLP 2023!
+> I am currently working on adapting language models to the [Left-Behinds languages](https://aclanthology.org/2020.acl-main.560/) and responsible deployment of [Aya](https://sites.google.com/cohere.com/aya-en/home) LLMs. I am also serving as an **Area Chair for Multilingualism and Linguistic Diversity** at EMNLP 2023!
 >
 > As a Malaysian 🇲🇾, I work on NLP systems for Southeast Asian (SEA) languages. I organize the [RojakNLP](https://github.com/Southeast-Asia-NLP) group for researching NLP technology for SEA languages, and I am also the Malay ambassador for the [Aya project](https://sites.google.com/cohere.com/aya-en/home).
 
