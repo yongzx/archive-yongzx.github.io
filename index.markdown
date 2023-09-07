@@ -10,14 +10,15 @@ layout: page
 > Developing instruction-tuned English models ([T0](https://arxiv.org/abs/2110.08207), [PromptSource](https://arxiv.org/abs/2202.01279)) and 
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;multilingual models ([BLOOMZ/mT0](https://arxiv.org/abs/2211.01786), [BLOOM](https://arxiv.org/abs/2211.05100), and [Aya](https://aya.for.ai/)).<br />
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. **low-resource ML**: Transfer learning with limited data and compute ([BLOOM+1](https://arxiv.org/abs/2212.09535)). <br />
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. **trustworthy AI**: building reliable AI systems ([Can LLMs generate code-switched texts?](https://arxiv.org/abs/2303.13592)). <br />
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. **trustworthy AI**: Building reliable AI systems ([Can LLMs generate code-switched texts?](https://arxiv.org/abs/2303.13592)). <br />
+>
+> I am currently working on adapting language models to the [Left-Behinds languages](https://aclanthology.org/2020.acl-main.560/) and responsible deployment of future [Aya](https://sites.google.com/cohere.com/aya-en/home) models. I’m also serving as an **Area Chair for Multilingualism and Linguistic Diversity** at EMNLP 2023!
 >
 > As a Malaysian 🇲🇾, I work on NLP systems for Southeast Asian (SEA) languages. I organize the [RojakNLP](https://github.com/Southeast-Asia-NLP) group for researching NLP technology for SEA languages, and I am also the Malay ambassador for the [Aya project](https://sites.google.com/cohere.com/aya-en/home).
->
->I’m serving as an **Area Chair for Multilingualism and Linguistic Diversity** at EMNLP 2023!
 
 **News**
 
+> - [2023 Sep]   🤖👍 Joining the Responsible Deployment Team for [Aya](https://sites.google.com/cohere.com/aya-en/home)! 
 > - [2023 Jul]   💫 Serving as the Area Chair for the Multilingualism & Linguistic Diversity Track in [EMNLP'23](https://2023.emnlp.org/). 
 > - [2023 Jun]   🐻 Passed my candidacy (in May) and released [a blog post of my mid-PhD reflections](https://yongzx.github.io/blog/posts/reflection-2year-PhD/).
 > - [2023 May]   🌊 [Interviewed by Wired](https://www.wired.com/story/chatgpt-non-english-languages-ai-revolution/) on our [code-switching paper](https://arxiv.org/abs/2303.13592) and grassroot research initiatve for Southeast Asian languages.
