@@ -12,9 +12,9 @@ layout: page
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. **low-resource ML**: Transfer learning with limited data and compute ([BLOOM+1](https://arxiv.org/abs/2212.09535)). <br/>
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. **trustworthy AI**: Building reliable AI systems (red-teaming the [Aya](https://sites.google.com/cohere.com/aya-en/home) language model). <br/>
 >
-> I am part of the **Responsible Deployment team** for Cohere For AI's [Aya large language model](https://sites.google.com/cohere.com/aya-en/home). In addition, I am an ambassador for crowdsourcing high-quality Malay instruction data.
+> Currently, I am part of the **Responsible Deployment team** for Cohere For AI's [Aya large language model](https://sites.google.com/cohere.com/aya-en/home). In addition, I am an ambassador for crowdsourcing high-quality Malay instruction data. Before, I led the language adaptation research in [BigScience](https://bigscience.huggingface.co/)'s multilingual modeling group.
 >
->Also, I am serving as an **Area Chair for Multilingualism and Linguistic Diversity** at EMNLP 2023!
+>I am proudly serving as an **Area Chair for Multilingualism and Linguistic Diversity** at EMNLP 2023!
 
 **News**
 
