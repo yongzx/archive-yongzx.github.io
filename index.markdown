@@ -5,12 +5,11 @@ layout: page
 
 > I am a rising third-year Computer Science PhD student at [Brown University](https://cs.brown.edu/) under the advisorship of [Prof. Stephen Bach](https://cs.brown.edu/people/sbach/). Prior to my PhD, I completed my BSc at [Minerva University](https://www.minerva.edu/) where I had the opportunity to study/live in multiple countries such as Argentina, India, Germany, South Korea, U.K., and USA. 
 >
-> I am primarily interested in <u>making NLP systems more accessible</u> by working on these three things: <br />
+> I am currently working in the following research areas: <br />
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. **(mutlilingual) large language models**: 
-> Developing instruction-tuned English models ([T0](https://arxiv.org/abs/2110.08207), [PromptSource](https://arxiv.org/abs/2202.01279)) and 
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;multilingual models ([BLOOMZ/mT0](https://arxiv.org/abs/2211.01786) and [BLOOM](https://arxiv.org/abs/2211.05100)). <br />
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. **low-resource ML**: Transfer learning with limited data and compute ([BLOOM+1](https://arxiv.org/abs/2212.09535)). <br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. **trustworthy AI**: Building reliable AI systems (red-teaming the [Aya](https://sites.google.com/cohere.com/aya-en/home) language model). <br/>
+> I've helped develop instruction-tuned English models ([T0](https://arxiv.org/abs/2110.08207) and [PromptSource](https://arxiv.org/abs/2202.01279)) and multilingual LLMs ([BLOOMZ/mT0](https://arxiv.org/abs/2211.01786) and [BLOOM](https://arxiv.org/abs/2211.05100)). Now working on [Aya](https://sites.google.com/cohere.com/aya-en/home). <br />
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. **low-resource learning**: Training LLMs with limited data and compute ([BLOOM+1](https://arxiv.org/abs/2212.09535)). <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. **trustworthy AI**: Building reliable AI systems (part of [Aya's](https://sites.google.com/cohere.com/aya-en/home) responsible deployment team). <br/>
 >
 > Currently, I am part of the **Responsible Deployment team** for Cohere For AI's [Aya large language model](https://sites.google.com/cohere.com/aya-en/home). In addition, I am an ambassador for crowdsourcing high-quality Malay instruction data. Before, I led the language adaptation research in [BigScience](https://bigscience.huggingface.co/)'s multilingual modeling group.
 >
@@ -51,7 +50,7 @@ layout: page
 > Genta Indra Winata, Alham Fikri Aji, **Zheng-Xin Yong**, Thamar Solorio. <br/>
 > <span style="color:blue">ACL Findings 2023</span>.
 >
-> **[Prompting Multilingual Large Language Models to Generate Code-Mixed Texts: The Case of South East Asian Languages](https://arxiv.org/abs/2303.13592)**
+> **[Prompting Multilingual Large Language Models to Generate Code-Mixed Texts: The Case of South East Asian Languages](https://arxiv.org/abs/2303.13592)** <br/>
 > **Zheng-Xin Yong**, Ruochen Zhang, Jessica Zosa Forde, Skyler Wang, Samuel Cahyawijaya, Holy Lovenia, Genta Indra Winata, Lintang Sutawika, Jan Christian Blaise Cruz, Long Phan, Yin Lin Tan, and Alham Fikri Aji. <br/>
 > *arxiv preprint, Mar 2023.* ([Interview with Wired](https://www.wired.com/story/chatgpt-non-english-languages-ai-revolution/))
 >
