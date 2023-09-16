@@ -5,7 +5,7 @@ layout: page
 
 > I am a rising third-year Computer Science PhD student at [Brown University](https://cs.brown.edu/) under the advisorship of [Prof. Stephen Bach](https://cs.brown.edu/people/sbach/). Prior to my PhD, I completed my BSc at [Minerva University](https://www.minerva.edu/) where I had the opportunity to study/live in multiple countries such as Argentina, India, Germany, South Korea, U.K., and USA. 
 >
-> I am currently working in the following research areas: <br />
+> I am currently working on the following research areas: <br />
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. **(mutlilingual) large language models**: 
 > I've helped develop instruction-tuned English models ([T0](https://arxiv.org/abs/2110.08207) and [PromptSource](https://arxiv.org/abs/2202.01279)) and multilingual LLMs ([BLOOMZ/mT0](https://arxiv.org/abs/2211.01786) and [BLOOM](https://arxiv.org/abs/2211.05100)). Now working on [Aya](https://sites.google.com/cohere.com/aya-en/home). <br />
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. **low-resource learning**: Training LLMs with limited data and compute ([BLOOM+1](https://arxiv.org/abs/2212.09535)). <br/>
