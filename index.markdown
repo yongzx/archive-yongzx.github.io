@@ -8,7 +8,7 @@ layout: page
 > I am currently working on the following research areas: <br />
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. **(mutlilingual) large language models**: 
 > I've helped develop instruction-tuned English models ([T0](https://arxiv.org/abs/2110.08207) and [PromptSource](https://arxiv.org/abs/2202.01279)) and multilingual LLMs ([BLOOMZ/mT0](https://arxiv.org/abs/2211.01786) and [BLOOM](https://arxiv.org/abs/2211.05100)). Now working on [Aya](https://sites.google.com/cohere.com/aya-en/home). <br />
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. **low-resource learning**: Training LLMs with limited data and compute ([BLOOM+1](https://arxiv.org/abs/2212.09535)). <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. **parameter-/data-efficient finetuning**: Finetuning LLMs with limited data and compute ([BLOOM+1](https://arxiv.org/abs/2212.09535)). <br/>
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. **trustworthy AI**: Building reliable AI systems (part of [Aya's](https://sites.google.com/cohere.com/aya-en/home) responsible deployment team). <br/>
 >
 > Currently, I am part of the **Responsible Deployment team** for Cohere For AI's [Aya large language model](https://sites.google.com/cohere.com/aya-en/home). In addition, I am an ambassador for crowdsourcing high-quality Malay instruction data. Before, I led the language adaptation research in [BigScience](https://bigscience.huggingface.co/)'s multilingual modeling group.
